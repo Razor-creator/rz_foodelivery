@@ -2,6 +2,10 @@
 
 Dette er et script som jeg har lavet hend over ca. en uges tid. Jeg vælger at udgive det da jeg ikke har nogen der ville kunne bruge det også tænkte jeg at jeg gerne ville give noget tilbage til communityet. 
 
+# Krav
+
+Du skal bruge progressBars og Mythic Notify
+
 # Opsætning
 
 Du skal huske at oprette den group du skal bruge i scriptet.
