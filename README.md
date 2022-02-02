@@ -21,3 +21,4 @@ Hvis du har lyst til at bruge scriptet skal du bare vælge det framework som du 
 Arnie, for ideen og så har jeg taget nogle små bidder af hans script. 
 FiveM.DK, alle de dejlige medlemmer der har hjulpet mig med mine fejl.
 Og nogle andre scripts som jeg ikke er sikker på hvad de hedder for at jeg kiggede i deres JS og HTML for lidt info.
+Også Credit til Mohamedali for noget JS: https://discord.com/channels/661361742282096650/735568367561342976/871096048540586024
