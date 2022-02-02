@@ -8,5 +8,6 @@ CREATE TABLE `rz_fooddelivery` (
     `drinks` varchar(1000) NOT NULL,
     `x` varchar(1000) NOT NULL,
     `y` varchar(1000) NOT NULL,
-    `z` varchar(1000) NOT NULL
+    `z` varchar(1000) NOT NULL,
+	`street` varchar(1000) NOT NULL
 );
