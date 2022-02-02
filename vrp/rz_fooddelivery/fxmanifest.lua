@@ -26,4 +26,3 @@ server_scripts {
 	"@vrp/lib/utils.lua",
 }
 
-shared_script '@qb-core/import.lua'
