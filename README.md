@@ -4,6 +4,8 @@ Dette er et script som jeg har lavet hend over ca. en uges tid. Jeg vælger at u
 
 # Opsætning
 
+Du skal huske at oprette den group du skal bruge i scriptet.
+
 Hvis du har lyst til at bruge scriptet skal du bare vælge det framework som du bruger og tage rz_fooddelivery ud af mappen. Når du har taget det ud er det vigtigt at du ikke ændre navnet på det medmindre du ved hvad du laver. Derefter skal du bare starte det i det sted hvor du starter dine resources. Du starter det ved at skrive sådan: "start rz_fooddelivery".
 
 # Credits
