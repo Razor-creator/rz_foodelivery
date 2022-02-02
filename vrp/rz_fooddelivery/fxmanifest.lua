@@ -15,12 +15,15 @@ files {
 client_scripts {
     "config.lua",
 	"client/main.lua"
+	    "lib/Tunnel.lua",
+	"lib/Proxy.lua",
 }
 
 server_scripts {
 	"@mysql-async/lib/MySQL.lua",
     "config.lua",
-	"server/main.lua"
+	"server/main.lua",
+	"@vrp/lib/utils.lua",
 }
 
 shared_script '@qb-core/import.lua'
