@@ -273,7 +273,7 @@ AddEventHandler('rz_fooddelivery:setgps', function(x, y, z)
     coordsy = tonumber(y)
     coordsz = tonumber(z)
     TriggerEvent('rz_fooddelivery:newcoords', x, y ,z)
-	exports['mythic_notify']:DoHudText('sucess', Config.Leveringstart)
+	exports['mythic_notify']:DoHudText('sucess', Config.Leveringstart, { ['background-color'] = '#6495ed', ['color'] = '#ffffff' })
 end)
 
 
@@ -322,7 +322,7 @@ Citizen.CreateThread(function()
                     ClearPedTasksImmediately(GetPlayerPed(-1))
                     TriggerServerEvent('rz_fooddelivery:getpaid')
                     Citizen.Wait(1)
-                    exports['mythic_notify']:DoHudText('sucess', 'Du har modtaget dine drikkepenge.')
+                    exports['mythic_notify']:DoHudText('sucess', 'Du har modtaget dine drikkepenge.', { ['background-color'] = '#6495ed', ['color'] = '#ffffff' })
                     Citizen.Wait(1000)
                     tagetmad = false
                     madafleveret = true
