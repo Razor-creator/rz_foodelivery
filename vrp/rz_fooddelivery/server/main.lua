@@ -39,7 +39,8 @@ AddEventHandler('rz_fooddelivery:openmenu', function()
 			end
 		end)
 	else
-		TriggerClientEvent('QBCore:Notify', source, Config.IngenAdgang)
+		--TriggerClientEvent('QBCore:Notify', source, Config.IngenAdgang)
+		TriggerClientEvent('mythic_notify:client:SendAlert', source, { type = 'inform', text = Config.IngenAdgang, length = 2500})
 	end
 end)
 
