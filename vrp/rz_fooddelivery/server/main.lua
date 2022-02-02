@@ -2,7 +2,7 @@ local Tunnel = module("vrp", "lib/Tunnel")
 local Proxy = module("vrp", "lib/Proxy")
 
 vRP = Proxy.getInterface("vRP")
-vRPclient = Tunnel.getInterface("vRP","banking")
+vRPclient = Tunnel.getInterface("vRP","rz_fooddelivery")
 
 RegisterServerEvent('rz_fooddelivery:newlocations')
 AddEventHandler('rz_fooddelivery:newlocations', function(firstname, lastname, pizza, kebab, drinks, callid, x, y ,z, street)
