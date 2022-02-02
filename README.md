@@ -2,9 +2,13 @@
 
 Dette er et script som jeg har lavet hend over ca. en uges tid. Jeg vælger at udgive det da jeg ikke har nogen der ville kunne bruge det også tænkte jeg at jeg gerne ville give noget tilbage til communityet. 
 
+# Framework
+
+Dette script understøtter både vRP, ESX og QBCore
+
 # Krav
 
-Du skal bruge progressBars og Mythic Notify
+Du skal bruge progressBars, Mythic Notify. 
 
 # Opsætning
 
