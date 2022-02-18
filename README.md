@@ -8,7 +8,7 @@ Dette script understøtter både vRP, ESX og QBCore
 
 # Krav
 
-Du skal bruge progressBars, Mythic Notify og MySQL-async.
+Du skal bruge progressBars, Mythic Notify og MySQL-async (https://github.com/ESX-Brasil/mysql-async) i kan også benytte jer af andre releases end kun den her mysql-async.
 
 # Opsætning
 
